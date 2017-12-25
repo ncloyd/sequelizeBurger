@@ -1,0 +1,13 @@
+sub {
+	display: inline-block;
+}
+
+body {
+	background-color: lightgray;
+	margin-top: 20px;
+}
+
+img {
+	width: 200px;
+	height: auto;
+}
